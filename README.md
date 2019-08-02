@@ -71,10 +71,11 @@ sudo pip install --upgrade google-api-python-client
 sudo pip install --upgrade oauth2client
 
 # Install ImageMagick for the 'Animation' mode
+
 sudo apt-get install imagemagick
 
-
 Open a Terminal 
+
 git clone https://github.com/laurentalacoque/TouchSelfie-extended
 
 mv TouchSelfie-extended TouchSelfie
