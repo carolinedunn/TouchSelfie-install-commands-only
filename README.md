@@ -38,7 +38,7 @@ If you do not have a 3D printer, click "Order This Printed" from the Thingiverse
 
 Original Photobooth Tutorial - https://youtu.be/aFwVVPyXen4
 
-GitHub Repository: https://github.com/laurentalacoque/To... 
+GitHub Repository: https://github.com/laurentalacoque/TouchSelfie-extended
 
 Raspian OS download link - https://www.raspberrypi.org/
 Etcher - https://www.balena.io/etcher/
@@ -66,18 +66,9 @@ sudo pip install --upgrade oauth2client
 # Install ImageMagick for the 'Animation' mode
 sudo apt-get install imagemagick
 
-# Install CUPS for the Printing function(optional)
-sudo apt-get install cups
-sudo apt-get install python-cups
-
-sudo usermod -a -G lpadmin pi
-
-Open a web browser
-Go to - localhost:631
-Add Printer - follow prompts
 
 Open a Terminal 
-git clone https://github.com/laurentalacoque/To...
+git clone https://github.com/laurentalacoque/TouchSelfie-extended
 
 mv TouchSelfie-extended TouchSelfie
 
