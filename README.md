@@ -36,8 +36,6 @@ Optional: Flash Drive
 3D printed camera mount https://www.thingiverse.com/thing:291...
 If you do not have a 3D printer, click "Order This Printed" from the Thingiverse page
 
-Original Photobooth Tutorial - https://youtu.be/aFwVVPyXen4
-
 GitHub Repository: https://github.com/laurentalacoque/TouchSelfie-extended
 
 Raspian OS download link - https://www.raspberrypi.org/
@@ -82,36 +80,53 @@ git clone https://github.com/laurentalacoque/TouchSelfie-extended
 mv TouchSelfie-extended TouchSelfie
 
 cd TouchSelfie
+
 chmod +x ./setup.sh
+
 ./setup.sh
 
 Follow Prompts
+
 Create a Project in console.developer.google.com
+
 Create Credentials for Application Guide Other
+
 Download .json
-UPDATED: Rename download to google_client_id.json and move to 
-/TouchSelfie/scripts
+
+Rename downloaded file to google_client_id.json and move to /TouchSelfie/scripts
 
 Click Connect for Client Store
+
 Click Start
+
 Authenticate and Allow
+
 Copy Auth Code
+
 Paste and Authenticate
 
 Click Next
+
 Check Log email addresses
+
 Send Test email
+
 Click Next
 
 Select Album
+
 Double Click
+
 Click Next
 
 Choose Directory 
+
 /media/pi/4GB
 
 Click Save
 
 In Terminal:
+
 chmod +x ./photobooth.sh
+
 sudo ./photobooth.sh
