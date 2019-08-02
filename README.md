@@ -47,20 +47,29 @@ Additional note not included in the video:
 You may want to print and post a disclaimer. I am not a lawyer and this is in no way intended to be considered legal advice, but here's a sample disclaimer - https://github.com/carolinedunn/TouchSelfie/blob/master/photo-booth-disclaimer.pdf
 
 Shorthand notes with Install Commands:
+
 Open a Terminal
+
 Sudo raspi-config
+
 Enable Camera
 
 Reboot
 
 Open a Terminal
+
 sudo apt-get update
-sudo apt-get install python-imaging (if that doesn't work try 'sudo apt-get install python-pil')
+
+sudo apt-get install python-pil
+
 sudo apt-get install python-gdata
+
 sudo apt-get install python-imaging-tk
 
 sudo pip install --upgrade pip
+
 sudo pip install --upgrade google-api-python-client
+
 sudo pip install --upgrade oauth2client
 
 # Install ImageMagick for the 'Animation' mode
