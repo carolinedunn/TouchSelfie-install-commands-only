@@ -44,7 +44,7 @@ Raspian OS download link - https://www.raspberrypi.org/
 Etcher - https://www.balena.io/etcher/
 
 Additional note not included in the video:
-You may want to print and post a disclaimer. I am not a lawyer and this is in no way intended to be considered legal advice, but here's a sample disclaimer - https://github.com/carolinedunn/Touch...
+You may want to print and post a disclaimer. I am not a lawyer and this is in no way intended to be considered legal advice, but here's a sample disclaimer - https://github.com/carolinedunn/TouchSelfie/blob/master/photo-booth-disclaimer.pdf
 
 Shorthand notes with Install Commands:
 Open a Terminal
