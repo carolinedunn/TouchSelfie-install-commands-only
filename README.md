@@ -133,3 +133,27 @@ In Terminal:
 chmod +x ./photobooth.sh
 
 sudo ./photobooth.sh
+
+# Instructions to Add a Printer
+
+Install CUPS for the Printing function(optional)
+
+sudo apt-get install cups
+
+sudo apt-get install python-cups
+
+sudo usermod -a -G lpadmin pi
+
+Open a web browser
+
+Go to - localhost:631
+
+Add Printer - follow prompts
+
+cd TouchSelfie
+
+./setup.sh
+
+Follow prompts to add your printer
+
+sudo ./photobooth.sh
