@@ -89,6 +89,8 @@ chmod +x ./setup.sh
 Follow Prompts
 
 Create a Project in console.developer.google.com
+Add Google Photos API
+Add Gmail API to your project
 
 Create Credentials for Application Guide Other
 
