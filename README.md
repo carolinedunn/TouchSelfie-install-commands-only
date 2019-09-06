@@ -2,16 +2,12 @@
 This repo is simply the commands needed to install TouchSelfie from this GitHub Repository: https://github.com/laurentalacoque/TouchSelfie-extended
 
 Printer Links:
-
-Canon SELPHY CP1300 - https://amzn.to/2DshBfg
-
-Cartridges & 4X6 Paper - https://amzn.to/2ORzV3J
-
-USB to Mini USB cable - https://amzn.to/2E1vjad
+- Canon SELPHY CP1300 - https://amzn.to/2DshBfg
+- Cartridges & 4X6 Paper - https://amzn.to/2ORzV3J
+- USB to Mini USB cable - https://amzn.to/2E1vjad
 
 Project Materials:
-
-Raspberry Pi 3B+ https://amzn.to/2MbzjVP (RPi4 will also work https://amzn.to/2ZBaj5n )
+- Raspberry Pi 3B+ https://amzn.to/2MbzjVP (RPi4 will also work https://amzn.to/2ZBaj5n )
 
 5V / 2A Raspberry Pi Power Adapter https://amzn.to/2O6Oi43
 
