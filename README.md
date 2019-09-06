@@ -1,11 +1,6 @@
 # TouchSelfie-install-commands-only
 This repo is simply the commands needed to install TouchSelfie from this GitHub Repository: https://github.com/laurentalacoque/TouchSelfie-extended
 
-Printer Links:
-- Canon SELPHY CP1300 - https://amzn.to/2DshBfg
-- Cartridges & 4X6 Paper - https://amzn.to/2ORzV3J
-- USB to Mini USB cable - https://amzn.to/2E1vjad
-
 Project Materials:
 - Raspberry Pi 3B+ https://amzn.to/2MbzjVP (RPi4 will also work https://amzn.to/2ZBaj5n )
 - 5V / 2A Raspberry Pi Power Adapter https://amzn.to/2O6Oi43
@@ -24,6 +19,12 @@ or 50" tripod https://amzn.to/2MhWXju
 - 3D printed tripod mount - https://www.thingiverse.com/thing:1613489
 - 3D printed camera mount - https://www.thingiverse.com/thing:2916515
 - If you do not have a 3D printer, click "Order This Printed" from the Thingiverse page
+
+Printer Links:
+- Canon SELPHY CP1300 - https://amzn.to/2DshBfg
+- Cartridges & 4X6 Paper - https://amzn.to/2ORzV3J
+- USB to Mini USB cable - https://amzn.to/2E1vjad
+
 
 - GitHub Repository: https://github.com/laurentalacoque/TouchSelfie-extended
 - Raspian OS download link - https://www.raspberrypi.org/
