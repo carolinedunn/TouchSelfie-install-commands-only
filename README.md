@@ -15,6 +15,7 @@ Project Materials:
 - Small screwdriver
 - 60" tripod https://amzn.to/2O8lNmO
 or 50" tripod https://amzn.to/2MhWXju
+- Light Ring https://amzn.to/2MYEZXu
 - Optional: Flash Drive
 - 3D printed tripod mount - https://www.thingiverse.com/thing:1613489
 - 3D printed camera mount - https://www.thingiverse.com/thing:2916515
