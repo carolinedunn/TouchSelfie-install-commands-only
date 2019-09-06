@@ -1,54 +1,65 @@
 # TouchSelfie-install-commands-only
-This repo is simply the commands needed to install TouchSelfie
-Create your own photo booth or selfie station powered by a Raspberry Pi 3B and printer.
-
-Features of this photo booth include:
- - Automatically upload photos to your Google Photos account
- - Users can immediately email the photos to themselves
- - 5 second countdown to each picture
- - Capability to backup all photos to a USB drive
- - Captures a list of all email addresses entered
- - Takes 4 photos in one frame
- - Create an Animation GIF
- - Print photos
+This repo is simply the commands needed to install TouchSelfie from this GitHub Repository: https://github.com/laurentalacoque/TouchSelfie-extended
 
 Printer Links:
+
 Canon SELPHY CP1300 - https://amzn.to/2DshBfg
+
 Cartridges & 4X6 Paper - https://amzn.to/2ORzV3J
+
 USB to Mini USB cable - https://amzn.to/2E1vjad
 
 Project Materials:
-Raspberry Pi 3B+ https://amzn.to/2MbzjVP (3B will also work https://amzn.to/2O8Pmoj )
+
+Raspberry Pi 3B+ https://amzn.to/2MbzjVP (RPi4 will also work https://amzn.to/2ZBaj5n )
+
 5V / 2A Raspberry Pi Power Adapter https://amzn.to/2O6Oi43
+
 8GB or larger microSD card https://amzn.to/2O5aj3i
+
 7" Raspberry Pi touchscreen https://amzn.to/2O0vL9q
+
 Raspberry Pi Module V2 camera https://amzn.to/2AAOqH3
+
 Keyboard / Mouse combo https://amzn.to/2OB9Irj
+
 1/4-20 hex nut https://amzn.to/2OBap3T
+
 4 M2 screws and 6 M2 nuts
+
 2 M3 10mm screws
+
 2 M3 6mm screws
+
 Small screwdriver
+
+
 60" tripod https://amzn.to/2O8lNmO
 or 50" tripod https://amzn.to/2MhWXju
+
 Optional: Flash Drive
+
 3D printed tripod mount https://www.thingiverse.com/thing:161...
+
 3D printed camera mount https://www.thingiverse.com/thing:291...
+
 If you do not have a 3D printer, click "Order This Printed" from the Thingiverse page
 
 GitHub Repository: https://github.com/laurentalacoque/TouchSelfie-extended
 
 Raspian OS download link - https://www.raspberrypi.org/
+
 Etcher - https://www.balena.io/etcher/
 
 Additional note not included in the video:
+
 You may want to print and post a disclaimer. I am not a lawyer and this is in no way intended to be considered legal advice, but here's a sample disclaimer - https://github.com/carolinedunn/TouchSelfie/blob/master/photo-booth-disclaimer.pdf
 
 Shorthand notes with Install Commands:
 
 Open a Terminal
 
-Sudo raspi-config
+'''Sudo raspi-config'''
 
 Enable Camera
 
