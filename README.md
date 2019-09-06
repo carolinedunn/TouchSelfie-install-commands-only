@@ -59,7 +59,7 @@ Shorthand notes with Install Commands:
 
 Open a Terminal
 
-'''Sudo raspi-config'''
+```Sudo raspi-config```
 
 Enable Camera
 
