@@ -47,7 +47,8 @@ Reboot
 
 Open a Terminal
 
-```sudo apt-get update
+```
+sudo apt-get update
 
 sudo apt-get install python-pil
 
@@ -68,7 +69,8 @@ sudo pip install --upgrade oauth2client
 
 Open a Terminal 
 
-```git clone https://github.com/laurentalacoque/TouchSelfie-extended
+```
+git clone https://github.com/laurentalacoque/TouchSelfie-extended
 
 mv TouchSelfie-extended TouchSelfie
 
@@ -123,7 +125,8 @@ Click Save
 
 In Terminal:
 
-```chmod +x ./photobooth.sh
+```
+chmod +x ./photobooth.sh
 
 sudo ./photobooth.sh
 ```
